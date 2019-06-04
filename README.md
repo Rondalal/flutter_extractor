@@ -1,5 +1,5 @@
 # flutter_extractor
-Extracting strings and function names from Flutter apks, based on this blogpost 
+Extracting strings and function names from Flutter apks, based on this blogpost - https://medium.com/@rondalal54/reverse-engineering-flutter-apps-5d620bb105c0
 
 ## Usage
 ```
