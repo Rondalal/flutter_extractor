@@ -13,7 +13,7 @@ POSSIBLE_DATA_TYPES = [{"type": "functions",
                     "filename": "strings"}]
 
 def get_data_from_snapshot(app_path):
-    data_path = os.path.join(app_path, "assets", DATA_FILE)
+    data_path = os.path.join(app_path, "assets", "flutter_assets", DATA_FILE)
     data = ""
 
     with open(data_path, 'rb') as data_file_handle:
